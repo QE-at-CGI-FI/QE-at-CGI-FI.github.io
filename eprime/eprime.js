@@ -74,9 +74,9 @@ var possibleViolationCount = 0;
 var wordCount = 0;
 
 function displayStats(){
-    document.getElementById("wordCount").innerHTML = wordCount;
-    document.getElementById("discouragedWordCount").innerHTML = discouragedWordCount;
-    document.getElementById("possibleViolationCount").innerHTML = possibleViolationCount;
+    document.getElementById("test_number_1").innerHTML = wordCount;
+    document.getElementById("test_number_2").innerHTML = discouragedWordCount;
+    document.getElementById("test_number_3").innerHTML = possibleViolationCount;
 }
 
 function resetGlobalVariables(){
@@ -153,7 +153,7 @@ function checkThisTextForEprime(textToProcess) {
 }
 
 function processInputText(){
-    checkThisTextForEprime(document.getElementById("inputtext").value);
+    checkThisTextForEprime(document.getElementById("test_field").value);
     writeTheOutputTextToTheScreen();
     displayStats();
 
