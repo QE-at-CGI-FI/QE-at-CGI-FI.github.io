@@ -10,12 +10,20 @@ This is a public site for hosting simple web test targets
 
 - [Client tagger](https://qe-at-cgi-fi.github.io/client-tagger/)
 - [Pipeline visualizer](https://qe-at-cgi-fi.github.io/pipeline-visualizer/)
-- [Outcome visualizer](https://qe-at-cgi-fi.github.io/outcome-visualizer/)
 - [Experience visualizer](https://qe-at-cgi-fi.github.io/experience-visualizer/)
+- [Skills visualizer](https://qe-at-cgi-fi.github.io/skills-visualizer/)
 - [OKR visualizer](https://qe-at-cgi-fi.github.io/OKR-visualizer/)
+- [Outcome visualizer](https://qe-at-cgi-fi.github.io/outcome-visualizer/)
+- [Improvement tracker](https://qe-at-cgi-fi.github.io/improvement-tracker/)
 - [IBA tracker](https://qe-at-cgi-fi.github.io/iba-tracker/)
+- [Testing context model assessment](https://qe-at-cgi-fi.github.io/context-modeling/)
 
-*All visualizers have json data hosted in browser local storage. To see what I actually see and do with these, you need data that is not published.* 
+_All visualizers have json data hosted in browser local storage. To see what I actually see and do with these, you need data that is not published._
+
+## Teaching materials
+
+- [Vibe Guide](https://qe-at-cgi-fi.github.io/vibe-guide/)
+- [ETF2025 course](https://qe-at-cgi-fi.github.io/ETF2025/)
 
 ## Test targets
 
