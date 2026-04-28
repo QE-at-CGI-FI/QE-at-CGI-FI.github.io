@@ -18,13 +18,15 @@ This is a public site for hosting simple web test targets
 - [IBA tracker](https://qe-at-cgi-fi.github.io/iba-tracker/)
 - [Testing context model assessment](https://qe-at-cgi-fi.github.io/context-modeling/)
 - [Quality culture assessment](https://qe-at-cgi-fi.github.io/quality-culture-assessment/)
+- [Impact mapping](https://qe-at-cgi-fi.github.io/impact-mapping/)
+- [CliftonStrengths](https://qe-at-cgi-fi.github.io/cliftonstrengths/)
 
 _All visualizers have json data hosted in browser local storage. To see what I actually see and do with these, you need data that is not published._
 
 ## Teaching materials
 
+- [Material Portal](https://qe-at-cgi-fi.github.io/material-portal/)
 - [Vibe Guide](https://qe-at-cgi-fi.github.io/vibe-guide/)
-- [ETF2025 course](https://qe-at-cgi-fi.github.io/ETF2025/)
 
 ## Test targets
 
