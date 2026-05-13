@@ -4,7 +4,7 @@ This is a public site for hosting simple web test targets
 
 ## ISTQB Exam prep
 
-- [ISTQB Coach](https://qe-at-cgi-fi.github.io/isqtb-coach/)
+- [ISTQB Coach](https://qe-at-cgi-fi.github.io/istqb-coach/)
 
 ## Visualizers
 
@@ -20,6 +20,8 @@ This is a public site for hosting simple web test targets
 - [Quality culture assessment](https://qe-at-cgi-fi.github.io/quality-culture-assessment/)
 - [Impact mapping](https://qe-at-cgi-fi.github.io/impact-mapping/)
 - [CliftonStrengths](https://qe-at-cgi-fi.github.io/cliftonstrengths/)
+- [People coverage](https://qe-at-cgi-fi.github.io/people-coverage/)
+- 
 
 _All visualizers have json data hosted in browser local storage. To see what I actually see and do with these, you need data that is not published._
 
